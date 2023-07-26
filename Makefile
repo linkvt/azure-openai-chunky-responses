@@ -4,10 +4,6 @@ VENV_NAME := .venv
 venv:
 	@python3 -m venv $(VENV_NAME)
 
-.PHONY: activate
-activate:
-	@source $(VENV_NAME)/bin/activate
-
 .PHONY: install
 install:
 	@pip install -r requirements.txt

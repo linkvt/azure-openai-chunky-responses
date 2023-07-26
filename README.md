@@ -21,6 +21,6 @@ https://www.loom.com/share/94067bd57a0444ea834faa1759784529
 1. Install python3
 2. Copy the `.env.template` file to `.env` and update the env vars inside of this file
 3. Setup a venv, e.g. with `python3 -m venv .venv` or `make venv`
-4. Activate the venv with `source .venv/bin/activate` or `make activate`
+4. Activate the venv with `source .venv/bin/activate`
 5. Install dependencies `pip install -r requirements.txt` or `make install`
 6. Run the app with `python3 main.py` or `make run`
