@@ -8,7 +8,7 @@ This creates an ugly output and longer response times.
 
 ## Proof
 
-### asciicinema Gif
+### asciinema Gif
 
 ![Proof as a gif image](./demo.gif)
 
